@@ -1,1 +1,5 @@
-This file created basically, to test something in github tool..
+public class hello {
+	public static void main(String[] args) {
+		System.out.println("main method");
+	}
+}
